@@ -2,6 +2,8 @@ UIBarButtonItem-Badge
 =====================
 
 ##UIBarButtonItem+Badge
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaztheo%2FUIBarButtonItem-Badge.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaztheo%2FUIBarButtonItem-Badge?ref=badge_shield)
+
 
 This is categorization of [this github Class](https://github.com/TanguyAladenise/BBBadgeBarButtonItem). Its expanded for UIButton use too.
 
@@ -141,3 +143,7 @@ THE SOFTWARE.
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaztheo%2FUIBarButtonItem-Badge.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaztheo%2FUIBarButtonItem-Badge?ref=badge_large)
